@@ -1,0 +1,39 @@
+So I was signing-up for IBM free tier, my card got declined for some reason. I tried all my bank cards and still the same result. Finally I got touch with IBM support team and resolved it. Here's what you need to do in order to get IBM free tier. 
+
+If your card get declined, probably you'll get this error message or a similar one.
+[INSERT PHOTO OF ERROR MESSAGE]
+
+As the error says drop a email at [INSERT IBM EMAIL] saying your verification got corrupted. They usually reply within 12 hours asking for a cell phone number. 
+
+>[!TIP]
+>If you're uncomfortable with mobile conversations, don't worry; I am too. I do have stutter making it hard to keep a conversation. Ask them for a possibility of doing verification process via emails. Normally these days, it's odd to decline a accessibility request.
+
+#### Begins Verification Process
+Either way verification process same. They will ask for **two** type of documents that issued or accepted by government. And your billing address and mobile number you used for IBM account. Then of course why you want the IBM cloud free tier.
+###### Two type of Government accepted documents
+This is how you going to verify your identification. Let's say you have driving license and passport. Take pictures of both side of documents and attach them to the email. 
+
+>[!FAQ]- I don't have two type of government issued documents, what do I do?
+>Don't worry. Just notify them you don't have required amount of documents and also mention the reason why you are not having them. Ask for a possibility of doing verification process just by single document or more verification methods.
+
+Make sure to take clear pictures; not blurry or cropped information.
+[INSERT COMPARISON OF WRONG PICTURE AND THE CORRECT ONE]
+
+###### Billing address and mobile number
+Billing address means your home address if you're signing up for a personal account. And include mobile number which used for your IBM cloud registration. 
+
+>[!FAQ]- Can I use my Debit Card for IBM cloud?
+Yesn't. At the initial registration some cloud vendors do reject debit cards due to accountability issues. But if you provide enough reasons why you don't have or can't use credit card, there's a chance getting accepted.
+###### Purpose of IBM free tire subscription
+Briefly describe why you want a IBM cloud account. For a example, let's say you want IBM cloud for your homelab. Say that you want to try out IBM cloud for homelab activities and chose IBM over other vendors for this reason. Mention what services you expect to use and how. Keep it to the **point and short, also be honest.**
+
+>[!FAQ]- How long it takes to the IBM verification process?
+>Most likely it should be done within 24 hours. Depends on how you elaborate with them.
+
+If you share genuine information with them, your account may get verified by IBM. Be professional throughout the email conversations, don't be rude. If you encounter problem somewhere during the verification, just ask help from support team.
+
+>[!FAQ]- What if my verification process get failed?
+Your newly created IBM cloud account will be deactivated after a 24 hour period and completely deleted within next 14 days.
+
+
+[ARTICLE ENDING]
